@@ -131,3 +131,25 @@ span::after {
     width: 1px !important;
     white-space: nowrap !important;
   }
+
+  .new {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+#start {
+    display:block;
+    width: 100%;
+    padding: 10px;
+    border: 0;
+    font-size: 1.2em;
+}
+
+#gamer-name {
+    display:block;
+    width: 100%;
+    padding: 10px;
+    border: 0;
+    font-size: 1.2em;
+    margin-right: 1rem;
+}
